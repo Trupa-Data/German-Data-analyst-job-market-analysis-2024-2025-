@@ -1,0 +1,2 @@
+# German-Data-analyst-job-market-analysis-2024-2025-
+German Data Analyst Job Market Analysis (2024–2025) End-to-end data analysis project exploring job trends for Data Analysts in Germany. Using Python, Pandas, and Power BI, this project uncovers insights on skill demand, salary trends, and city-specific opportunities — offering a data-driven look into the evolving analytics job landscape in Germany.
